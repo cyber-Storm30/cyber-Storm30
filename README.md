@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a computer science student at **KIIT Deemed to be University**.
+- 🔭 I’m a Product Engineer at **Glosity**.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **DevOps and microservices.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 <!-- 
@@ -51,7 +51,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/cyber-Storm30/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cyber-Storm30&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/cyber-Storm30/github-readme-stats"><img alt="Ranajit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cyber-Storm30&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/cyber-Storm30/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-Storm30&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
